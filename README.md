@@ -1,25 +1,25 @@
 how to use 
 
-$apt install update
+apt install update
 
-$apt install upgrade
+apt install upgrade
 
-$apt install ruby
+apt install ruby
 
-$gem install lolcat
+gem install lolcat
 
-$apt install figlet
+apt install figlet
 
-$apt install python2
+apt install python2
 
 apt install php
 
-$apt install git
+apt install git
 
-$git clone https://github.com/Stut-jack/stutjack
+git clone https://github.com/Stut-jack/stutjack
 
-$cd stutjack
+cd stutjack
 
-$chmod 777 jack.sh
+chmod 777 jack.sh
 
-$sh jack.sh
+sh jack.sh
