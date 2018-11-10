@@ -66,7 +66,7 @@ toilet "Stut-jack"
 python2 jk.py
 fi
 
-if [ $bro = 199 ] || [ $bro = 199 ]
+if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 toilet -f big -F gay "Stut-jack"
