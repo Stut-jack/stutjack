@@ -1,5 +1,3 @@
-module/mbf.py
-
 from __future__ import print_function
 import platform, os, smtplib
 from email.mime.text import MIMEText
