@@ -63,7 +63,7 @@ if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 toilet "Stut-jack"
-php jk.php
+python2 jk.py
 fi
 
 if [ $bro = 199 ] || [ $bro = 199 ]
