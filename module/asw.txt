@@ -2,9 +2,9 @@
           +hydNNNNdyh+             -----------------
         +mMMMMMMMMMMMMm+           Author: Stut-jack
       `dMMm:NMMMMMMN:mMMd`         Host: Hacker Patah Hati
-      hMMMMMMMMMMMMMMMMMMh         Github: https://github.com/Stut-jack
+      hMMMMMMMMMMMMMMMMMMh         
   ..  yyyyyyyyyyyyyyyyyyyy  ..     
-.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   FB: http://m.facebook.com/stutjack
+.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   version Tools: v.1.01
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   GUNAKAN DENGAN BIJAK
@@ -16,3 +16,9 @@
           MMMMo  oMMMM
           MMMMo  oMMMM
           oNMm-  -mMNs
+  ____  _         _        _            _
+ / ___|| |_ _   _| |_     (_) __ _  ___| | __
+ \___ \| __| | | | __|____| |/ _` |/ __| |/ /
+  ___) | |_| |_| | ||_____| | (_| | (__|   <
+ |____/ \__|\__,_|\__|   _/ |\__,_|\___|_|\_\
+                        |__/
